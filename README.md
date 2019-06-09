@@ -1,2 +1,0 @@
-# Psy
-burger
